@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=UserRecord
+comment0.text=\r\n\ Interface\ for\ UserRecord\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPassKey()
+comment1.text=\r\n\ Get\ the\ pass\ key\ for\ a\ record.\ \r\n\ @return\ record's\ pass\ key\r\n
+comment2.params=
+comment2.target=java.lang.String\ getUserType()
+comment2.text=\r\n\ Get\ the\ type\ of\ record.\ \r\n\ @return\ record's\ pass\ key\r\n
+comment3.params=
+comment3.target=java.lang.String\ toCSVText()
+comment3.text=\r\n\ Convert\ object\ data\ to\ text\ for\ storage\ in\ text\ file.\ \r\n\ \ \ This\ method\ will\ be\ automatically\ invoked\r\n\ \ \ by\ a\ method\ of\ another\ class\ when\ the\ objects\ are\ written\ to\ a\ file.\r\n\ @return\ all\ attributes\ of\ object\ separated\ by\ commas\r\n
+numComments=4

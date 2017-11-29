@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Admin
+comment0.text=\r\n\ Admin\ Class\ describing\ key\ attributes\ of\ a\ customer.\r\n
+comment1.params=firstName\ lastName\ emailAddress\ phoneNumber
+comment1.target=Admin(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFname()
+comment2.text=\r\n\ Get\ customer\ first\ name\r\n\ @return\ \ \ \ the\ firstname\ of\ customer\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLname()
+comment3.text=\r\n\ Get\ customer\ last\ name\r\n\ @return\ \ \ \ the\ firstname\ of\ customer\r\n
+comment4.params=
+comment4.target=java.lang.String\ emailAddress()
+comment4.text=\r\n\ Get\ admin\ email\ address\r\n\ @return\ \ \ \ the\ firstname\ of\ customer\r\n
+comment5.params=
+comment5.target=java.lang.String\ getPhoneNum()
+comment5.text=\r\n\ Get\ admin\ phone\ number\r\n\ @return\ \ \ \ the\ firstname\ of\ customer\r\n
+comment6.params=pass
+comment6.target=void\ setPassword(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getUserType()
+numComments=8
